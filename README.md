@@ -8,7 +8,7 @@ No login. No sign-up. Just pick your language, pick your category, and explore.
 
 **Live Demo:** [Click Here To Try CBB]
 
----
+https://samriddha-pal.github.io/CineBookBeats/
 
 ## ✨ Features
 
